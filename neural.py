@@ -4,7 +4,7 @@ from typing import List, Tuple, Any
 
 from utilities import *
 
-from sklearn.model_selection import train_test_split
+
 
 # Arrays are represented as lists of (equal-sized) lists. Packages like numpy could
 # speed up computation if needed
