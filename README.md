@@ -28,4 +28,4 @@ f you need help with the strategy on how to preprocess your data choice, let me 
 10. Can you come up with a way to see how accurate your model was?
 * Print that model to the screen
 
-When finished, make sure that your project is pushed to github.  I will be cloning all of your repositories in order to grade the project and I will post that grade i google classroom.
+When finished, make sure that your project is pushed to github.  I will be cloning all of your repositories in order to grade the project and I will post that grade in google classroom.
