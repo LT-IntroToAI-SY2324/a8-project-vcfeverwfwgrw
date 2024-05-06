@@ -9,10 +9,10 @@ urlcolor: cyan
 
 In this project, you will get the opportunity to make a more complex neural network than what we did in Assignment 8. You will be able to work in groups of 4 or fewer. You can create the group in github classroom when you are cloning the initial repository.
 
-The goal of this project if for you to run through the neural net on your own dataset (or one that you have found online).  You can find your dataset on UCI Machine Learning Repository or Kaggle or anywhere else.  Your error may be much larger than what we have done in class, which isn't great, but not the point of this project.  We would like you to try to do what was done in class on your own, and get some output, but if the error is too high you will not be docked points.
+The goal of this project is for you to run through the neural net on your own dataset (or one that you have found online).  You can find your dataset on UCI Machine Learning Repository or Kaggle or anywhere else.  Your error may be much larger than what we have done in class, which isn't great, but not the point of this project.  We would like you to try to do what was done in class on your own, and get some output, but if the error is too high you will not be docked points.
 
 You can follow this process to complete your project, but feel free to try to work through your own process as well:
-f you need help with the strategy on how to preprocess your data choice, let me know and I will help you as best as I can.  The basic strategy that I used was:
+If you need help with the strategy on how to preprocess your data choice, let me know and I will help you as best as I can.  The basic strategy that I used was:
 1. Import your dataset into this directory
 2. Create a file to run through the program, give it a meaningful name
 3. Bring in the imports and functions `parse_line` and `normalize` to your file
